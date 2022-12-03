@@ -1,0 +1,6 @@
+[deps]
+Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
+DesertIslandDisk = "4b41362c-03b0-4ba3-ab04-b4a602531e19"
+FilePathsBase = "48062228-2e41-5def-b9a4-89aafe57970f"
+OhMyREPL = "5fb14364-9ced-5910-84b2-373655c76a03"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
